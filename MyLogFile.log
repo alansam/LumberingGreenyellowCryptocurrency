@@ -1,0 +1,71 @@
+Wed Oct 21 20:54:42 2020  [ALWAYS]: <=============================== START OF PROGRAM ===============================>
+Wed Oct 21 20:54:42 2020  [ERROR]: Message Logged using Direct Interface, Log level: LOG_ERROR
+Wed Oct 21 20:54:42 2020  [ALARM]: Message Logged using Direct Interface, Log level: LOG_ALARM
+Wed Oct 21 20:54:42 2020  [ALWAYS]: Message Logged using Direct Interface, Log level: LOG_ALWAYS
+Wed Oct 21 20:54:42 2020  [INFO]: Message Logged using Direct Interface, Log level: LOG_INFO
+Message Logged using Direct Interface, Log level: LOG_BUFFER
+Wed Oct 21 20:54:42 2020  [TRACE]: Message Logged using Direct Interface, Log level: LOG_TRACE
+Wed Oct 21 20:54:42 2020  [ERROR]: Message Logged using C++ Interface, Log level: LOG_ERROR
+Wed Oct 21 20:54:42 2020  [ALARM]: Message Logged using C++ Interface, Log level: LOG_ALARM
+Wed Oct 21 20:54:42 2020  [ALWAYS]: Message Logged using C++ Interface, Log level: LOG_ALWAYS
+Message Logged using C++ Interface, Log level: LOG_INFO
+Wed Oct 21 20:54:42 2020  [INFO]: Message Logged using C++ Interface, Log level: LOG_BUFFER
+Wed Oct 21 20:54:42 2020  [TRACE]: Message Logged using C++ Interface, Log level: LOG_TRACE
+Wed Oct 21 20:54:42 2020  [ALWAYS]: Logging ostringstream using Direct Interface
+Wed Oct 21 20:54:42 2020  [ERROR]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Wed Oct 21 20:54:42 2020  [ALARM]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Wed Oct 21 20:54:42 2020  [ALWAYS]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Wed Oct 21 20:54:42 2020  [INFO]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Wed Oct 21 20:54:42 2020  [ERROR]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Wed Oct 21 20:54:42 2020  [ALARM]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Wed Oct 21 20:54:42 2020  [ALWAYS]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Wed Oct 21 20:54:42 2020  [INFO]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Wed Oct 21 20:54:42 2020  [ALWAYS]: <=============================== END OF PROGRAM ===============================>
